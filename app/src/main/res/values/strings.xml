@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise</string>
+
+    <string name="toolbar_title">Falcon 9 Launches</string>
+    <string name="error_msg">Connection Error</string>
+    <string name="accept">Accept</string>
+    <string name="lbl_launch_date">Launch Date:</string>
+    <string name="lbl_mission_success">Mission Success:</string>
+</resources>
